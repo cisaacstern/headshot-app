@@ -49,8 +49,6 @@ def headshot(sigma, levels, cmap='copper',
 
 # -
 
-canvas
-
 headshot(sigma=3, levels=2)
 
 react.sidebar.append(sigma)
